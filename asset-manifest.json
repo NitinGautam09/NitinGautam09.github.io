@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.f7eb578f.css",
+    "main.css": "/static/css/main.d9e56666.css",
     "main.js": "/static/js/main.a9099793.js",
     "static/media/me.png": "/static/media/me.30df1166bc1db207775f.png",
     "static/media/Nitin_Gautam_Resume.pdf": "/static/media/Nitin_Gautam_Resume.d9efd24ffce6f5e2507b.pdf",
@@ -8,11 +8,11 @@
     "static/media/portfolio2.jpg": "/static/media/portfolio2.72d1107e313049cf15a7.jpg",
     "static/media/portfolio3.jpg": "/static/media/portfolio3.f5e72352e5aa840702b8.jpg",
     "index.html": "/index.html",
-    "main.f7eb578f.css.map": "/static/css/main.f7eb578f.css.map",
+    "main.d9e56666.css.map": "/static/css/main.d9e56666.css.map",
     "main.a9099793.js.map": "/static/js/main.a9099793.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7eb578f.css",
+    "static/css/main.d9e56666.css",
     "static/js/main.a9099793.js"
   ]
 }

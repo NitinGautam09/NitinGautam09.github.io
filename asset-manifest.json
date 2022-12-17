@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.eb79f491.css",
-    "main.js": "/static/js/main.f48bd7bf.js",
+    "main.css": "/static/css/main.b1545d5c.css",
+    "main.js": "/static/js/main.7cb006da.js",
     "static/media/me.png": "/static/media/me.30df1166bc1db207775f.png",
     "static/media/Nitin_Gautam_Resume.pdf": "/static/media/Nitin_Gautam_Resume.d9efd24ffce6f5e2507b.pdf",
     "static/media/portfolio1.png": "/static/media/portfolio1.a82ae9a163c1ac5e3a07.png",
@@ -12,11 +12,11 @@
     "static/media/avatar3.jpg": "/static/media/avatar3.386b70ce5c657c4902be.jpg",
     "static/media/calender.jpg": "/static/media/calender.d9c8f87f09c93ad6f717.jpg",
     "index.html": "/index.html",
-    "main.eb79f491.css.map": "/static/css/main.eb79f491.css.map",
-    "main.f48bd7bf.js.map": "/static/js/main.f48bd7bf.js.map"
+    "main.b1545d5c.css.map": "/static/css/main.b1545d5c.css.map",
+    "main.7cb006da.js.map": "/static/js/main.7cb006da.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb79f491.css",
-    "static/js/main.f48bd7bf.js"
+    "static/css/main.b1545d5c.css",
+    "static/js/main.7cb006da.js"
   ]
 }

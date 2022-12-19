@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.d6a03aa5.css",
-    "main.js": "/static/js/main.f77d8e67.js",
+    "main.js": "/static/js/main.2a02c144.js",
     "static/media/me.png": "/static/media/me.30df1166bc1db207775f.png",
-    "static/media/Nitin_Gautam_Resume.pdf": "/static/media/Nitin_Gautam_Resume.d9efd24ffce6f5e2507b.pdf",
+    "static/media/Nitin-Gautam-Resume.pdf": "/static/media/Nitin-Gautam-Resume.d9efd24ffce6f5e2507b.pdf",
     "static/media/portfolio1.png": "/static/media/portfolio1.a82ae9a163c1ac5e3a07.png",
     "static/media/portfolio2.jpg": "/static/media/portfolio2.72d1107e313049cf15a7.jpg",
     "static/media/portfolio3.jpg": "/static/media/portfolio3.f5e72352e5aa840702b8.jpg",
@@ -13,10 +13,10 @@
     "static/media/calender.jpg": "/static/media/calender.d9c8f87f09c93ad6f717.jpg",
     "index.html": "/index.html",
     "main.d6a03aa5.css.map": "/static/css/main.d6a03aa5.css.map",
-    "main.f77d8e67.js.map": "/static/js/main.f77d8e67.js.map"
+    "main.2a02c144.js.map": "/static/js/main.2a02c144.js.map"
   },
   "entrypoints": [
     "static/css/main.d6a03aa5.css",
-    "static/js/main.f77d8e67.js"
+    "static/js/main.2a02c144.js"
   ]
 }
